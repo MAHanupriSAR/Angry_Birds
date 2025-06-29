@@ -9,7 +9,9 @@ A Java-based Angry Birds clone — a physics-based projectile game where you lau
 
 ## 🖼️ Screenshots
 
-*(Add screenshots here if available)*
+![Start Screen Screenshot](screenshots/start_screen.png)
+
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ## 🚀 Getting Started
 
