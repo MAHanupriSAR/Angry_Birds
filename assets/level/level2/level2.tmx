@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="32" height="18" tilewidth="1" tileheight="1" infinite="0" nextlayerid="8" nextobjectid="31">
+ <layer id="1" name="Tile Layer 1" width="32" height="18">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="blocksLayer">
+  <object id="6" type="stone" x="29" y="6.5" width="1" height="4"/>
+  <object id="8" type="stone" x="26" y="6.5" width="1" height="4"/>
+  <object id="9" type="glass" x="26.5" y="10.5" width="4" height="1"/>
+  <object id="10" type="stone" x="23.5" y="11.5" width="1" height="4"/>
+  <object id="11" type="stone" x="29" y="11.5" width="1" height="4"/>
+  <object id="12" type="wood" x="26" y="5.5" width="4" height="1"/>
+  <object id="28" type="stone" x="26" y="11.5" width="1" height="4"/>
+  <object id="29" type="glass" x="22.5" y="10.5" width="4" height="1"/>
+ </objectgroup>
+ <objectgroup id="5" name="ground">
+  <object id="15" type="ground" x="0" y="15.5" width="32" height="2.5"/>
+ </objectgroup>
+ <objectgroup id="6" name="birdsLayer">
+  <object id="20" type="red" x="0.25" y="14.5" width="1" height="1"/>
+  <object id="25" type="yellow" x="1.5" y="14.5" width="1" height="1"/>
+  <object id="27" type="yellow" x="2.75" y="14.5" width="1" height="1"/>
+ </objectgroup>
+ <objectgroup id="7" name="pigsLayer">
+  <object id="18" type="minion" x="27.5" y="14.5" width="1" height="1"/>
+  <object id="19" type="minion" x="27.5" y="4.5" width="1" height="1"/>
+  <object id="26" type="king" x="24.25" y="9.5" width="1" height="1"/>
+  <object id="30" type="king" x="27.5" y="9.5" width="1" height="1"/>
+ </objectgroup>
+</map>
