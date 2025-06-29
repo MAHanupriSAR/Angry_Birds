@@ -1,17 +1,52 @@
-Team Memebers : 
-Anuraag Tandon 2023110 
-Daksh Singh 2023180
+# 🐦 Angry Birds Clone
 
-to run it: go to lwjgl3/src/main/java/angry_bird/main/lwjgl3 and run Lwjgl3Launcher.java
+A Java-based Angry Birds clone — a physics-based projectile game where you launch birds to destroy enemy structures.
 
-how to use it: when you start the game, you will be prompted with two options, play and quit. 
-clicking on play gives you 2 option which are load game and new game. after that you can select your desired level to play. 
-in the playing screen, press esc to toggle pause. 
-press W to view a glimpse of how the winning screen will look 
-press L to view a glimpse of how the loosing screen will look.
+## 🎮 Features
+
+- Slingshot-based launching mechanic
+- Destructible blocks with basic physics
+
+## 🖼️ Screenshots
+
+*(Add screenshots here if available)*
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Java 8 or higher installed
+
+### Running the Game
+
+Download the latest release `.jar` file from the [Releases page](https://github.com/MAHanupriSAR/Angry_Birds/releases).
+
+Run it using the command:
+
+```bash
+java -jar angry-birds-clone.jar
+```
+
+### Controls
+
+| Action       | Key            |
+|--------------|----------------|
+| Aim          | Click and drag |
+| Launch       | Release mouse  |
+| Pause        | ESC            |
+| Bird Ability | SPACE          |
+
+---
 
 
-after launching you can use special ability of the bird by pressing space bar
-black bird -> explodes
-blue bird -> splits
-yellow bird -> speed increases
+## 📦 [Releases](https://github.com/MAHanupriSAR/Angry_Birds/releases)  
+
+Check out the Releases page for the latest `.jar` downloads.
+
+## 📄 License
+
+This project is licensed under the terms of the [MIT License](LICENSE).
+
+## 🙌 Credits
+
+Inspired by [Angry Birds](https://www.rovio.com/games/angry-birds/) by Rovio Entertainment.
